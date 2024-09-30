@@ -15,6 +15,12 @@ header {
 
 nav {
   background-color: #ffe1f4;
+  display: inline-block;
+  width: 80%;
+}
+
+nav img {
+  width: 10%;
 }
 
 main {
@@ -26,6 +32,7 @@ footer {
   background-color: #d6d6d6;
 }
 
+/*
 li {
   display: inline-block;
   width: 30%;
@@ -34,6 +41,7 @@ li {
   line-height: 250%;
 
 }
+*/
 
 h1 {
   text-align: center;
