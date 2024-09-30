@@ -14,7 +14,7 @@ header {
 }
 
 nav {
-  background-color: #ffe1f4;
+  /*background-color: #ffe1f4;*/
   display: inline-block;
   width: 80%;
 }
@@ -44,6 +44,14 @@ li {
 
 }
 */
+nav ul {
+  display: flex;
+  list-style-type: none;
+}
+
+nav ul li {
+  padding: 10px;
+}
 
 h1 {
   text-align: center;
