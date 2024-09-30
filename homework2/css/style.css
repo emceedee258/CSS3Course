@@ -81,6 +81,7 @@ p {
 }
 
 .current {
-  background-color: blue;
+  background-color: #38360b;
   color: white;
+  font-weight: bolder;
 }
