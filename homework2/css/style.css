@@ -79,3 +79,8 @@ p {
   display: flex;
   
 }
+
+.current {
+  background-color: blue;
+  color: white;
+}
